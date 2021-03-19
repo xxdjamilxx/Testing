@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1251">
+	<TITLE>[#CRT-1] Некорректно отображается символы кириллицы во всех &quot;Требованиях&quot; в Confluence при экспорте в формате PDF</TITLE>
+	<META NAME="GENERATOR" CONTENT="LibreOffice 4.0.3.3 (Windows)">
+	<META NAME="CREATED" CONTENT="0;0">
+	<META NAME="CHANGED" CONTENT="20210319;10134415">
+	<STYLE TYPE="text/css">
+	<!--
+		H3.cjk { font-family: "SimSun" }
+		H3.ctl { font-family: "Lucida Sans" }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="ru-RU" DIR="LTR">
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff" STYLE="page-break-before: always">
+	<TR>
+		<TD COLSPAN=2 WIDTH=100% VALIGN=TOP BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<H3 CLASS="western">[CRT-1]&nbsp;<A HREF="https://geekbrains-tes-ka.atlassian.net/browse/CRT-1"><SPAN LANG="ru-RU">Некорректно
+			отображается символы кириллицы во всех &quot;Требованиях&quot; в
+			Confluence при экспорте </SPAN><SPAN LANG="ru-RU">файла</SPAN><SPAN LANG="ru-RU">
+			в формате PDF</SPAN></A></H3>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% STYLE="border: none; padding: 0cm">
+			<P><B>Статус:</B></P>
+		</TD>
+		<TD WIDTH=80% STYLE="border: none; padding: 0cm">
+			<P>К выполнению</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% STYLE="border: none; padding: 0cm">
+			<P><B>Проект:</B></P>
+		</TD>
+		<TD WIDTH=80% STYLE="border: none; padding: 0cm">
+			<P><A HREF="https://geekbrains-tes-ka.atlassian.net/secure/BrowseProject.jspa?id=10003">Confluence
+			Requirements Testing</A></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD STYLE="border: none; padding: 0cm">
+			<P><B>Компоненты:</B></P>
+		</TD>
+		<TD STYLE="border: none; padding: 0cm">
+			<P>Нет 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD STYLE="border: none; padding: 0cm">
+			<P><B>Версии Affects:</B></P>
+		</TD>
+		<TD STYLE="border: none; padding: 0cm">
+			<P>Нет 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD STYLE="border: none; padding: 0cm">
+			<P><B>Версии фикса:</B></P>
+		</TD>
+		<TD STYLE="border: none; padding: 0cm">
+			<P>Нет 
+			</P>
+		</TD>
+	</TR>
+</TABLE>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff">
+	<TR>
+		<TD WIDTH=20% VALIGN=TOP BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Тип:</B> 
+			</P>
+		</TD>
+		<TD WIDTH=30% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Баг 
+			</P>
+		</TD>
+		<TD BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Приоритет:</B> 
+			</P>
+		</TD>
+		<TD VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Medium 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% VALIGN=TOP BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Автор:</B> 
+			</P>
+		</TD>
+		<TD WIDTH=30% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P><A NAME="word_reporter_5f63a06ab9fcc1007741ae0e"></A><A HREF="https://geekbrains-tes-ka.atlassian.net/secure/ViewProfile.jspa?accountId=5f63a06ab9fcc1007741ae0e">Керим
+			Керимов </A>
+			</P>
+		</TD>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Исполнитель:</B> 
+			</P>
+		</TD>
+		<TD WIDTH=30% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Не назначено 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Решение:</B> 
+			</P>
+		</TD>
+		<TD WIDTH=30% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Нет решения 
+			</P>
+		</TD>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Голоса:</B> 
+			</P>
+		</TD>
+		<TD WIDTH=30% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>0 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><A NAME="labels-10013-value"></A><B>Метки:</B> 
+			</P>
+		</TD>
+		<TD COLSPAN=3 VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Нет 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Оценка остатка:</B></P>
+		</TD>
+		<TD COLSPAN=3 WIDTH=80% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Не определено 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Затраченное время:</B></P>
+		</TD>
+		<TD COLSPAN=3 WIDTH=80% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Не определено 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Исходная оценка:</B></P>
+		</TD>
+		<TD COLSPAN=3 WIDTH=80% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Не определено 
+			</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Окружение:</B> 
+			</P>
+		</TD>
+		<TD COLSPAN=3 BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Windows 10 
+			</P>
+			<P>ОС Google Chrome Версия 85.0.4183.121</P>
+		</TD>
+	</TR>
+</TABLE>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff">
+	<TR VALIGN=TOP>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Вложения:</B> 
+			</P>
+		</TD>
+		<TD BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P><IMG SRC="https://geekbrains-tes-ka.atlassian.net/images/icons/attach/pdf.gif" NAME="Графический объект1" ALIGN=BOTTOM WIDTH=16 HEIGHT=16 BORDER=0>
+			NUTH-4227086-280920-0846.pdf &nbsp;&nbsp;&nbsp; 
+			</P>
+		</TD>
+	</TR>
+</TABLE>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<CENTER>
+	<TABLE WIDTH=100% CELLPADDING=2 CELLSPACING=0>
+		<TR>
+			<TD WIDTH=1% BGCOLOR="#bbbbbb" STYLE="border: none; padding: 0cm">
+				<P ALIGN=CENTER>&nbsp;<FONT COLOR="#ffffff"><B>Описание</B></FONT>&nbsp;
+								</P>
+			</TD>
+			<TD STYLE="border: none; padding: 0cm">
+				<P>&nbsp;</P>
+			</TD>
+		</TR>
+	</TABLE>
+</CENTER>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD STYLE="border: 1px solid #cccccc; padding: 0.05cm">
+			<P><A NAME="descriptionArea"></A>Содержание: <B>Некорректно
+			отображается текст кириллицы во всех &quot;Требованиях&quot;, в
+			Confluence при экспорте в формате PDF</B></P>
+			<P><B>Шаги воспроизведения</B></P>
+			<OL>
+				<LI><P STYLE="margin-bottom: 0cm">Зайти Confluence 
+				</P>
+				<LI><P STYLE="margin-bottom: 0cm">Из dropdown &ldquo;Пространства&ldquo;
+				выбрать Проект &ldquo;New Universal Testing Human&rdquo; 
+				</P>
+				<LI><P STYLE="margin-bottom: 0cm">На странице раскрыть список
+				&ldquo;Requirements (Требования)&rdquo; 
+				</P>
+				<LI><P STYLE="margin-bottom: 0cm">Выбрать &ldquo;Бизнес
+				требования&ldquo; 
+				</P>
+				<LI><P STYLE="margin-bottom: 0cm">В меню выбрать экспортировать в
+				формате PDF 
+				</P>
+				<LI><P>Открыть скачанный файл 
+				</P>
+			</OL>
+			<P><B>Ожидаемый результат:</B><BR>Все содержимое (текст, таблицы,
+			символы) отображается корректно.</P>
+			<P><B>Фактический результат:</B><BR>Из всего текста в &quot;Бизнес
+			требовании&quot; отображаются только латинские символы.</P>
+			<P><BR>
+			</P>
+		</TD>
+	</TR>
+</TABLE>
+<P>Полученный Fri Mar 19 06:57:06 UTC 2021 Керим Керимов используя
+JIRA
+1001.0.0-SNAPSHOT#100156-sha1:6515a6debb69fd3cc0864a879bbaa5d9a653ead7.
+</P>
+</BODY>
+</HTML>

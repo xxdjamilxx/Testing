@@ -1,0 +1,224 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1251">
+	<TITLE>[#BPL-3] Отсутствует переход на страница &quot;Я работаю в МЦ АУВД&quot; в главном меню на сайте atcm.ru при попытке перехода на данную страницу</TITLE>
+	<META NAME="GENERATOR" CONTENT="LibreOffice 4.0.3.3 (Windows)">
+	<META NAME="CREATED" CONTENT="0;0">
+	<META NAME="CHANGED" CONTENT="20210319;10071982">
+	<STYLE TYPE="text/css">
+	<!--
+		H3.cjk { font-family: "SimSun" }
+		H3.ctl { font-family: "Lucida Sans" }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="ru-RU" DIR="LTR">
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff" STYLE="page-break-before: always">
+	<TR>
+		<TD COLSPAN=2 WIDTH=100% VALIGN=TOP BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<H3 CLASS="western">[BPL-3]&nbsp;<A HREF="https://geekbrains-tes-ka.atlassian.net/browse/BPL-3"><SPAN LANG="ru-RU">Отсутствует
+			переход на страниц</SPAN><SPAN LANG="en-US">у</SPAN><SPAN LANG="ru-RU">
+			&quot;Я работаю в МЦ АУВД&quot; в главном меню на сайте atcm.ru
+			при попытке перехода на данную страницу</SPAN></A> 
+			</H3>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% STYLE="border: none; padding: 0cm">
+			<P><B>Статус:</B></P>
+		</TD>
+		<TD WIDTH=80% STYLE="border: none; padding: 0cm">
+			<P>К выполнению</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% STYLE="border: none; padding: 0cm">
+			<P><B>Проект:</B></P>
+		</TD>
+		<TD WIDTH=80% STYLE="border: none; padding: 0cm">
+			<P><A HREF="https://geekbrains-tes-ka.atlassian.net/secure/BrowseProject.jspa?id=10005">BUGS
+			Practic Learning</A></P>
+		</TD>
+	</TR>
+	<TR>
+		<TD STYLE="border: none; padding: 0cm">
+			<P><B>Компоненты:</B></P>
+		</TD>
+		<TD STYLE="border: none; padding: 0cm">
+			<P>Нет 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD STYLE="border: none; padding: 0cm">
+			<P><B>Версии Affects:</B></P>
+		</TD>
+		<TD STYLE="border: none; padding: 0cm">
+			<P>Нет 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD STYLE="border: none; padding: 0cm">
+			<P><B>Версии фикса:</B></P>
+		</TD>
+		<TD STYLE="border: none; padding: 0cm">
+			<P>Нет 
+			</P>
+		</TD>
+	</TR>
+</TABLE>
+<P STYLE="margin-bottom: 0cm"><BR>
+</P>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BGCOLOR="#ffffff">
+	<TR>
+		<TD WIDTH=20% VALIGN=TOP BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Тип:</B> 
+			</P>
+		</TD>
+		<TD WIDTH=30% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Баг 
+			</P>
+		</TD>
+		<TD BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Приоритет:</B> 
+			</P>
+		</TD>
+		<TD VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Medium 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% VALIGN=TOP BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Автор:</B> 
+			</P>
+		</TD>
+		<TD WIDTH=30% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P><A NAME="word_reporter_5f63a06ab9fcc1007741ae0e"></A><A HREF="https://geekbrains-tes-ka.atlassian.net/secure/ViewProfile.jspa?accountId=5f63a06ab9fcc1007741ae0e">Керим
+			Керимов </A>
+			</P>
+		</TD>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Исполнитель:</B> 
+			</P>
+		</TD>
+		<TD WIDTH=30% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Не назначено 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Решение:</B> 
+			</P>
+		</TD>
+		<TD WIDTH=30% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Нет решения 
+			</P>
+		</TD>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Голоса:</B> 
+			</P>
+		</TD>
+		<TD WIDTH=30% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>0 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><A NAME="labels-10018-value"></A><B>Метки:</B> 
+			</P>
+		</TD>
+		<TD COLSPAN=3 VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Нет 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Оценка остатка:</B></P>
+		</TD>
+		<TD COLSPAN=3 WIDTH=80% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Не определено 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Затраченное время:</B></P>
+		</TD>
+		<TD COLSPAN=3 WIDTH=80% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Не определено 
+			</P>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Исходная оценка:</B></P>
+		</TD>
+		<TD COLSPAN=3 WIDTH=80% VALIGN=TOP BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>Не определено 
+			</P>
+		</TD>
+	</TR>
+	<TR VALIGN=TOP>
+		<TD WIDTH=20% BGCOLOR="#f0f0f0" STYLE="border: none; padding: 0cm">
+			<P><B>Окружение:</B> 
+			</P>
+		</TD>
+		<TD COLSPAN=3 BGCOLOR="#ffffff" STYLE="border: none; padding: 0cm">
+			<P>ОС Windows <SPAN LANG="en-US">10</SPAN><BR>Browser
+			Chro<SPAN LANG="en-US">me</SPAN><BR>Версия 86.0.4240.75</P>
+		</TD>
+	</TR>
+</TABLE>
+<P><BR><BR>
+</P>
+<CENTER>
+	<TABLE WIDTH=100% CELLPADDING=2 CELLSPACING=0>
+		<TR>
+			<TD WIDTH=1% BGCOLOR="#bbbbbb" STYLE="border: none; padding: 0cm">
+				<P ALIGN=CENTER>&nbsp;<FONT COLOR="#ffffff"><B>Описание</B></FONT>&nbsp;
+								</P>
+			</TD>
+			<TD STYLE="border: none; padding: 0cm">
+				<P>&nbsp;</P>
+			</TD>
+		</TR>
+	</TABLE>
+</CENTER>
+<TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0>
+	<TR>
+		<TD STYLE="border: 1px solid #cccccc; padding: 0.05cm">
+			<P><A NAME="descriptionArea"></A><B>Содержание:</B><BR>Отсутствует
+			переход на страница &quot;Я работаю в МЦ АУВД&quot;, в главном
+			меню на сайте atcm.ru при попытке перехода на данную страницу.</P>
+			<P><B>Шаги воспроизведения</B></P>
+			<OL>
+				<LI><P STYLE="margin-bottom: 0cm">Зайти на сайт atcm.ru 
+				</P>
+				<LI><P>В главном меню кликнуть на пункт &quot;Я работаю в МЦ
+				АУВД&quot; 
+				</P>
+			</OL>
+			<P><B>Фактический результат</B><BR>Отсутствует переход на страницу
+			&quot;Я работаю в МЦ АУВД&quot;</P>
+			<P><B>Ожидаемый результат</B><BR>Происходит переход на страницу &quot;Я
+			работаю в МЦ АУВД&quot;</P>
+			<P><B>Комментарий</B><BR>Возможно ошибка в строке &lt;span
+			class=&quot;separator&quot;&gt;Я работаю в МЦ АУВД&lt;/span&gt;
+			Необходимо изменить на тег &lt;a&gt;с указанием ссылки на страницу</P>
+			<P><BR>
+			</P>
+		</TD>
+	</TR>
+</TABLE>
+<P>Полученный Fri Mar 19 06:53:34 UTC 2021 Керим Керимов используя
+JIRA
+1001.0.0-SNAPSHOT#100156-sha1:6515a6debb69fd3cc0864a879bbaa5d9a653ead7.
+</P>
+</BODY>
+</HTML>
